@@ -1,0 +1,127 @@
+{
+  "id": 150120030,
+  "GPA": 2.5,
+  "grades": [
+    {
+      "courseName": "Calculus I",
+      "courseCode": "MATH1001",
+      "semester": 1,
+      "credit": 6.0,
+      "numericGrade": 55.0,
+      "letterGrade": "CC"
+    },
+    {
+      "courseName": "Linear Algebra for Computer Engineering",
+      "courseCode": "MATH2256",
+      "semester": 2,
+      "credit": 5.0,
+      "numericGrade": 48.0,
+      "letterGrade": "DC"
+    },
+    {
+      "courseName": "Data Structures",
+      "courseCode": "CSE2255",
+      "semester": 3,
+      "credit": 7.0,
+      "numericGrade": 97.00,
+      "letterGrade": "AA"
+    },
+    {
+      "courseName": "Discrete Computational Structures",
+      "courseCode": "CSE2023",
+      "semester": 3,
+      "credit": 6.0,
+      "numericGrade": 71.00,
+      "letterGrade": "BB"
+    },
+    {
+      "courseName": "Electric Circuits",
+      "courseCode": "EE2031",
+      "semester": 3,
+      "credit": 5.0,
+      "numericGrade": 95.0,
+      "letterGrade": "AA"
+    },
+    {
+      "courseName": "Engineering Economy",
+      "courseCode": "ECON2004",
+      "semester": 3,
+      "credit": 4.0,
+      "numericGrade": 59.0,
+      "letterGrade": "CC"
+    },
+    {
+      "courseName": "Analysis of Algorithms",
+      "courseCode": "CSE2246",
+      "semester": 4,
+      "credit": 6.0,
+      "numericGrade": 78.0,
+      "letterGrade": "BB"
+    },
+    {
+      "courseName": "Principles of Programming Languages",
+      "courseCode": "CSE2260",
+      "semester": 4,
+      "credit": 6.0,
+      "numericGrade": 58.0,
+      "letterGrade": "CC"
+    },
+    {
+      "courseName": "Electronics",
+      "courseCode": "EE2032",
+      "semester": 4,
+      "credit": 5.0,
+      "numericGrade": 48.0,
+      "letterGrade": "DC"
+    },
+    {
+      "courseName": "Systems Programming",
+      "courseCode": "CSE2138",
+      "semester": 4,
+      "credit": 7.0,
+      "numericGrade": 92.0,
+      "letterGrade": "AA"
+    },
+    {
+      "courseName": "Operating Systems",
+      "courseCode": "CSE3033",
+      "semester": 5,
+      "credit": 7.0,
+      "numericGrade": 84.0,
+      "letterGrade": "BA"
+    },
+    {
+      "courseName": "Database Systems",
+      "courseCode": "CSE3055",
+      "semester": 5,
+      "credit": 7.0,
+      "numericGrade": 71.0,
+      "letterGrade": "BB"
+    },
+    {
+      "courseName": "Object-Oriented Software Design",
+      "courseCode": "EE2032",
+      "semester": 5,
+      "credit": 5.0,
+      "numericGrade": 63.0,
+      "letterGrade": "CB"
+    },
+    {
+      "courseName": "Digital Logic Design",
+      "courseCode": "EE2032",
+      "semester": 5,
+      "credit": 6.0,
+      "numericGrade": 88.0,
+      "letterGrade": "BA"
+    },
+    {
+      "courseName": "Modeling and Discrete Simulation",
+      "courseCode": "IE3081",
+      "semester": 5,
+      "credit": 4.0,
+      "numericGrade": 60.0,
+      "letterGrade": "CB"
+    }
+
+  ]
+}

@@ -1,0 +1,24 @@
+
+  {
+    "id": 150120024,
+    "GPA": 2.5,
+    "grades": [
+      {
+        "courseName": "Calculus I",
+        "courseCode": "MATH1001",
+        "semester": 1,
+        "credit": 6.0,
+        "numericGrade": 65.0,
+        "letterGrade": "BB"
+      },
+      {
+        "courseName": "Linear Algebra for Computer Engineering",
+        "courseCode": "MATH2256",
+        "semester": 2,
+        "credit": 5.0,
+        "numericGrade": 52.0,
+        "letterGrade": "CC"
+      }
+    ]
+  }
+

@@ -1,0 +1,79 @@
+{
+  "id": 150120001,
+  "GPA": 3.1,
+  "grades": [
+    {
+      "courseName": "Data Structures",
+      "courseCode": "CSE2225",
+      "semester": 3,
+      "credit": 7.0,
+      "numericGrade": 32.0,
+      "letterGrade": "FF"
+    },
+    {
+      "courseName": "Discrete Comutational Structures",
+      "courseCode": "CSE2023",
+      "semester": 3,
+      "credit": 6.0,
+      "numericGrade": 70.0,
+      "letterGrade": "BB"
+    },
+    {
+      "courseName": "Electric Circuits",
+      "courseCode": "EE2031",
+      "semester": 3,
+      "credit": 5.0,
+      "numericGrade": 78.5,
+      "letterGrade": "BA"
+    },
+    {
+      "courseName": "Engineering Economy",
+      "courseCode": "ECON2004",
+      "semester": 3,
+      "credit": 4.0,
+      "numericGrade": 88.5,
+      "letterGrade": "AA"
+    },
+    {
+      "courseName": "Differantial Equations",
+      "courseCode": "MATH2055",
+      "semester": 3,
+      "credit": 4.0,
+      "numericGrade": 70.0,
+      "letterGrade": "BB"
+    },
+    {
+      "courseName": "Analysis of Algorithm",
+      "courseCode": "CSE2246",
+      "semester": 3,
+      "credit": 6.0,
+      "numericGrade": 60.0,
+      "letterGrade": "CB"
+    },
+    {
+      "courseName": "Principles of Programming Languages",
+      "courseCode": "CSE2260",
+      "semester": 3,
+      "credit": 6.0,
+      "numericGrade": 75.0,
+      "letterGrade": "BB"
+
+    },
+    {
+      "courseName": "Electronics",
+      "courseCode": "EE2032",
+      "semester": 3,
+      "credit": 5.0,
+      "numericGrade": 57.0,
+      "letterGrade": "CC"
+    },
+    {
+      "courseName": "Probabilty and Statistics for Computer Engineering",
+      "courseCode": "STAT2253",
+      "semester": 3,
+      "credit": 5.0,
+      "numericGrade": 81.5,
+      "letterGrade": "BB"
+    }
+  ]
+}

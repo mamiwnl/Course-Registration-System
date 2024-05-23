@@ -1,0 +1,15 @@
+
+{
+  "id": 150120027,
+  "GPA": 2.5,
+  "grades": [
+    {
+      "courseName": "Calculus I",
+      "courseCode": "MATH1001",
+      "semester": 1,
+      "credit": 6.0,
+      "numericGrade": 78.0,
+      "letterGrade": "BB"
+    }
+  ]
+}

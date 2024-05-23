@@ -1,0 +1,88 @@
+{
+  "lecturers": [
+    {
+      "id": 1,
+      "password": "pass1",
+      "name": "Borahan",
+      "surname": "Tumer",
+      "title": "Professor Doctor"
+    },
+    {
+      "id": 2,
+      "password": "pass2",
+      "name": "Mustafa",
+      "surname": "Agaoglu",
+      "title": "Associate Professor"
+    },
+    {
+      "id": 3,
+      "password": "pass3",
+      "name": "Fulya",
+      "surname": "Callialp",
+      "title": "Associate Professor"
+    },
+    {
+      "id": 4,
+      "password": "pass4",
+      "name": "Ayse",
+      "surname": "Ozluarda",
+      "title": "Doctor"
+    },
+    {
+      "id": 5,
+      "password": "pass5",
+      "name": "Zeynep",
+      "surname": "Yilmaz",
+      "title": "Doctor"
+    },
+    {
+      "id": 6,
+      "password": "pass6",
+      "name": "Omer",
+      "surname": "Korcak",
+      "title": "Associate Doctor"
+    },
+    {
+      "id": 7,
+      "password": "pass7",
+      "name": "Fatma",
+      "surname": "Corut Ergin",
+      "title": "Doctor"
+    },
+    {
+      "id": 8,
+      "password": "pass8",
+      "name": "Oguzhan",
+      "surname": "Ceylan",
+      "title": "Doctor"
+    },
+    {
+      "id": 9,
+      "password": "pass9",
+      "name": "Betul",
+      "surname": "Boz",
+      "title": "Doctor"
+    },
+    {
+      "id": 10,
+      "password": "pass10",
+      "name": "Mujdat",
+      "surname": "Soyturk",
+      "title": "Associate Doctor"
+    },
+    {
+      "id": 11,
+      "password": "pass11",
+      "name": "Ali Haydar",
+      "surname": "Ozer",
+      "title": "Associate Doctor"
+    },
+    {
+      "id": 12,
+      "password": "pass12",
+      "name": "Murat Can",
+      "surname": "Ganiz",
+      "title": "Associate Doctor"
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+[
+  {
+    "id":150120001,
+    "password": "randompass1",
+    "name": "Deniz",
+    "surname": "Avci",
+    "semester": 5,
+    "major": "Computer Engineering",
+    "advisorID": 1,
+    "currentCourses": [],
+    "requests":[]
+  },
+  {
+    "id": 150120002,
+    "password": "randompass2",
+    "name": "Burak",
+    "surname": "Gunduz",
+    "semester": 5,
+    "major": "Computer Engineering",
+    "advisorID": 2,
+    "currentCourses": [],
+    "requests":[]
+  },
+  {
+    "id": 150120003,
+    "password": "randompass3",
+    "name": "Seda",
+    "surname": "Korkmaz",
+    "semester": 5,
+    "major": "Computer Engineering",
+    "advisorID": 1,
+    "currentCourses": [],
+    "requests":[]
+  },
+  {
+    "id": 150120004,
+    "password": "randompass4",
+    "name": "Tolga",
+    "surname": "Sahin",
+    "semester": 5,
+    "major": "Computer Engineering",
+    "advisorID": 1,
+    "currentCourses": [],
+    "requests":[]
+  },
+  {
+    "id": 150120005,
+    "password": "randompass5",
+    "name": "Derya",
+    "surname": "Yildiz",
+    "semester": 5,
+    "major": "Computer Engineering",
+    "advisorID": 1,
+    "currentCourses": [],
+    "requests":[]
+  },
+  {
+    "id": 150120006,
+    "password": "randompass6",
+    "name": "Mehmet",
+    "surname": "Kaya",
+    "semester": 5,
+    "major": "Computer Engineering",
+    "advisorID": 2,
+    "currentCourses": [],
+    "requests":[]
+  },
+  {
+    "id": 150120007,
+    "password": "randompass7",
+    "name": "Eren",
+    "surname": "Toprak",
+    "semester": 5,
+    "major": "Computer Engineering",
+    "advisorID": 2,
+    "currentCourses": [],
+    "requests":[]
+  },
+  {
+    "id": 150120008,
+    "password": "randompass8",
+    "name": "Kerem",
+    "surname": "Aslan",
+    "semester": 5,
+    "major": "Computer Engineering",
+    "advisorID": 2,
+    "currentCourses": [],
+    "requests":[]
+  },
+  {
+    "id": 150120009,
+    "password": "randompass9",
+    "name": "Murat",
+    "surname": "Parlak",
+    "semester": 5,
+    "major": "Computer Engineering",
+    "advisorID": 2,
+    "currentCourses": [],
+    "requests":[]
+  },
+  {
+    "id": 150120010,
+    "password": "randompass10",
+    "name": "Ceyda",
+    "surname": "Aksoy",
+    "semester": 5,
+    "major": "Computer Science",
+    "advisorID": 2,
+    "currentCourses": [],
+    "requests":[]
+  },
+
+
+  {
+    "id": 150120011,
+    "password": "randompass11",
+    "name": "Ahmet",
+    "surname": "Şahin",
+    "semester": 1,
+    "major": "Computer Engineering",
+    "advisorID": 2,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120012,
+    "password": "randompass12",
+    "name": "Zeynep",
+    "surname": "Yıldız",
+    "semester": 2,
+    "major": "Computer Science",
+    "advisorID": 2,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120013,
+    "password": "randompass13",
+    "name": "Kaan",
+    "surname": "Özkan",
+    "semester": 1,
+    "major": "Computer Engineering",
+    "advisorID": 2,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120014,
+    "password": "randompass14",
+    "name": "Büşra",
+    "surname": "Yılmaz",
+    "semester": 3,
+    "major": "Computer Science",
+    "advisorID": 2,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120015,
+    "password": "randompass15",
+    "name": "Elif",
+    "surname": "Kara",
+    "semester": 5,
+    "major": "Computer Engineering",
+    "advisorID": 2,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120016,
+    "password": "randompass16",
+    "name": "Zeynep",
+    "surname": "Şahin",
+    "semester": 5,
+    "major": "Computer Science",
+    "advisorID": 2,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120017,
+    "password": "randompass17",
+    "name": "Ali",
+    "surname": "Özkan",
+    "semester": 1,
+    "major": "Computer Engineering",
+    "advisorID": 2,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120018,
+    "password": "randompass18",
+    "name": "Emre",
+    "surname": "Koç",
+    "semester": 3,
+    "major": "Computer Science",
+    "advisorID": 2,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120019,
+    "password": "randompass19",
+    "name": "Zeynep",
+    "surname": "Kaya",
+    "semester": 2,
+    "major": "Computer Engineering",
+    "advisorID": 2,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120020,
+    "password": "randompass20",
+    "name": "Burak",
+    "surname": "Kara",
+    "semester": 5,
+    "major": "Computer Science",
+    "advisorID": 2,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120021,
+    "password": "randompass21",
+    "name": "Esra",
+    "surname": "Kurt",
+    "semester": 4,
+    "major": "Computer Engineering",
+    "advisorID": 3,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120022,
+    "password": "randompass22",
+    "name": "Deniz",
+    "surname": "Aydın",
+    "semester": 1,
+    "major": "Computer Science",
+    "advisorID": 3,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120023,
+    "password": "randompass23",
+    "name": "Ali",
+    "surname": "Aslan",
+    "semester": 2,
+    "major": "Computer Engineering",
+    "advisorID": 3,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120024,
+    "password": "randompass24",
+    "name": "Ahmet",
+    "surname": "Kılıç",
+    "semester": 3,
+    "major": "Computer Science",
+    "advisorID": 4,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120025,
+    "password": "randompass25",
+    "name": "Kaan",
+    "surname": "Özdemir",
+    "semester": 5,
+    "major": "Computer Engineering",
+    "advisorID": 4,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120026,
+    "password": "randompass26",
+    "name": "Nur",
+    "surname": "Öztürk",
+    "semester": 4,
+    "major": "Computer Science",
+    "advisorID": 5,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120027,
+    "password": "randompass27",
+    "name": "Ahmet",
+    "surname": "Arslan",
+    "semester": 2,
+    "major": "Computer Engineering",
+    "advisorID": 5,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120028,
+    "password": "randompass28",
+    "name": "Emre",
+    "surname": "Aydın",
+    "semester": 6,
+    "major": "Computer Science",
+    "advisorID": 4,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120029,
+    "password": "randompass29",
+    "name": "Kaan",
+    "surname": "Özdemir",
+    "semester": 4,
+    "major": "Computer Engineering",
+    "advisorID": 3,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120030,
+    "password": "randompass30",
+    "name": "Burak",
+    "surname": "Aydın",
+    "semester": 6,
+    "major": "Computer Science",
+    "advisorID": 4,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120031,
+    "password": "randompass31",
+    "name": "Ali",
+    "surname": "Kara",
+    "semester": 7,
+    "major": "Computer Engineering",
+    "advisorID": 3,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120032,
+    "password": "randompass32",
+    "name": "Ali",
+    "surname": "Çelik",
+    "semester": 3,
+    "major": "Computer Science",
+    "advisorID": 4,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120033,
+    "password": "randompass33",
+    "name": "Ayşe",
+    "surname": "Öztürk",
+    "semester": 6,
+    "major": "Computer Engineering",
+    "advisorID": 5,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120034,
+    "password": "randompass34",
+    "name": "Büşra",
+    "surname": "Aydın",
+    "semester": 4,
+    "major": "Computer Science",
+    "advisorID": 4,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120035,
+    "password": "randompass35",
+    "name": "Mehmet",
+    "surname": "Kılıç",
+    "semester": 6,
+    "major": "Computer Engineering",
+    "advisorID": 3,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120036,
+    "password": "randompass36",
+    "name": "Dilara",
+    "surname": "Özkan",
+    "semester": 8,
+    "major": "Computer Science",
+    "advisorID": 3,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120037,
+    "password": "randompass37",
+    "name": "Seda",
+    "surname": "Kaya",
+    "semester": 7,
+    "major": "Computer Engineering",
+    "advisorID": 4,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120038,
+    "password": "randompass38",
+    "name": "Fatma",
+    "surname": "Doğan",
+    "semester": 8,
+    "major": "Computer Science",
+    "advisorID": 5,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120039,
+    "password": "randompass39",
+    "name": "Zeynep",
+    "surname": "Yıldız",
+    "semester": 7,
+    "major": "Computer Engineering",
+    "advisorID": 4,
+    "currentCourses": [],
+    "requests": []
+  },
+
+  {
+    "id": 150120040,
+    "password": "randompass40",
+    "name": "Doğukan",
+    "surname": "Onmaz",
+    "semester": 8,
+    "major": "Computer Engineering",
+    "advisorID": 5,
+    "currentCourses": [],
+    "requests": []
+  }
+]

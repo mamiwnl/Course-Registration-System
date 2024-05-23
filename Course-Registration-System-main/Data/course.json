@@ -1,0 +1,576 @@
+[
+  {
+    "courseName": "Data Structures",
+    "courseCode": "CSE2225",
+    "courseSemester": 3,
+    "courseType": "Must",
+    "credit": 7,
+    "courseSections": [
+      {
+        "courseSectionCode": "CSE2225.1",
+        "classroom": "Room 101",
+        "capacity": 25,
+        "noOfEnrolledStudent": 18,
+        "day": "Monday",
+        "hour": "9:00 AM"
+      },
+      {
+        "courseSectionCode": "CSE2225.2",
+        "classroom": "Room 102",
+        "capacity": 30,
+        "noOfEnrolledStudent": 18,
+        "day": "Wednesday",
+        "hour": "9:00 PM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+  {
+    "courseName": "Discrete Computational Structures",
+    "courseCode": "CSE2023",
+    "courseSemester": 3,
+    "courseType": "Must",
+    "credit": 6,
+    "courseSections": [
+      {
+        "courseSectionCode": "CSE2023.1",
+        "classroom": "Room 201",
+        "capacity": 20,
+        "noOfEnrolledStudent": 20,
+        "day": "Tuesday",
+        "hour": "10:00 AM"
+      },
+      {
+        "courseSectionCode": "CSE2023.2",
+        "classroom": "Room 202",
+        "capacity": 25,
+        "noOfEnrolledStudent": 20,
+        "day": "Thursday",
+        "hour": "3:00 PM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+
+  {
+    "courseName": "Electric Circuits",
+    "courseCode": "EE2031",
+    "courseSemester": 3,
+    "courseType": "Must",
+    "credit": 5,
+    "courseSections": [
+      {
+        "courseSectionCode": "CSE2031.1",
+        "classroom": "Room 101",
+        "capacity": 25,
+        "noOfEnrolledStudent": 15,
+        "day": "Monday",
+        "hour": "9:00 AM"
+      },
+      {
+        "courseSectionCode": "CSE2023.2",
+        "classroom": "Room 102",
+        "capacity": 30,
+        "noOfEnrolledStudent": 15,
+        "day": "Wednesday",
+        "hour": "1:00 PM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+
+  {
+    "courseName": "Engineering Economy",
+    "courseCode": "ECON2004",
+    "courseSemester": 3,
+    "courseType": "Must",
+    "credit": 4,
+    "courseSections": [
+      {
+        "courseSectionCode": "ECON2004.1",
+        "classroom": "Room 101",
+        "capacity": 25,
+        "noOfEnrolledStudent": 18,
+        "day": "Monday",
+        "hour": "9:00 AM"
+      },
+      {
+        "courseSectionCode": "ECON2004.2",
+        "classroom": "Room 102",
+        "capacity": 30,
+        "noOfEnrolledStudent": 18,
+        "day": "Wednesday",
+        "hour": "1:00 PM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+
+  {
+    "courseName": "Differential Equations",
+    "courseCode": "MATH2055",
+    "courseSemester": 3,
+    "courseType": "Must",
+    "credit": 4,
+    "courseSections": [
+      {
+        "courseSectionCode": "MATH2055.1",
+        "classroom": "Room 101",
+        "capacity": 25,
+        "noOfEnrolledStudent": 20,
+        "day": "Monday",
+        "hour": "9:00 AM"
+      },
+      {
+        "courseSectionCode": "MATH2055.2",
+        "classroom": "Room 102",
+        "capacity": 30,
+        "noOfEnrolledStudent": 20,
+        "day": "Wednesday",
+        "hour": "1:00 PM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+  {
+    "courseName": "Analysis of Algorithms",
+    "courseCode": "CSE2246",
+    "courseSemester": 4,
+    "courseType": "Must",
+    "credit": 6,
+    "courseSections": [
+      {
+        "courseSectionCode": "CSE2246.1",
+        "classroom": "Room 101",
+        "capacity": 25,
+        "noOfEnrolledStudent": 22,
+        "day": "Monday",
+        "hour": "9:00 AM"
+      },
+      {
+        "courseSectionCode": "CSE2046.2",
+        "classroom": "Room 102",
+        "capacity": 30,
+        "noOfEnrolledStudent": 22,
+        "day": "Wednesday",
+        "hour": "1:00 PM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+  {
+    "courseName": "Principles of Programming Languages",
+    "courseCode": "CSE2260",
+    "courseSemester": 4,
+    "courseType": "Must",
+    "credit": 6,
+    "courseSections": [
+      {
+        "courseSectionCode": "CSE2260.1",
+        "classroom": "Room 101",
+        "capacity": 25,
+        "noOfEnrolledStudent": 15,
+        "day": "Monday",
+        "hour": "9:00 AM"
+      },
+      {
+        "courseSectionCode": "CSE2260.2",
+        "classroom": "Room 102",
+        "capacity": 30,
+        "noOfEnrolledStudent": 15,
+        "day": "Wednesday",
+        "hour": "1:00 PM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+  {
+    "courseName": "Electronics",
+    "courseCode": "EE2032",
+    "courseSemester": 4,
+    "courseType": "Must",
+    "credit": 5,
+    "courseSections": [
+      {
+        "courseSectionCode": "EE2032.1",
+        "classroom": "Room 101",
+        "capacity": 25,
+        "noOfEnrolledStudent": 20,
+        "day": "Monday",
+        "hour": "9:00 AM"
+      },
+      {
+        "courseSectionCode": "EE2032.2",
+        "classroom": "Room 102",
+        "capacity": 30,
+        "noOfEnrolledStudent": 20,
+        "day": "Wednesday",
+        "hour": "1:00 PM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+  {
+    "courseName": "Systems Programming",
+    "courseCode": "CSE2138",
+    "courseSemester": 4,
+    "courseType": "Must",
+    "credit": 7,
+    "courseSections": [
+      {
+        "courseSectionCode": "CSE2138.1",
+        "classroom": "Room 101",
+        "capacity": 25,
+        "noOfEnrolledStudent": 25,
+        "day": "Monday",
+        "hour": "9:00 AM"
+      },
+      {
+        "courseSectionCode": "CSE2138.2",
+        "classroom": "Room 102",
+        "capacity": 30,
+        "noOfEnrolledStudent": 25,
+        "day": "Wednesday",
+        "hour": "1:00 PM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+  {
+    "courseName": "Probability and Statistics for Computer Engineering",
+    "courseCode": "STAT2253",
+    "courseSemester": 4,
+    "courseType": "Must",
+    "credit": 5,
+    "courseSections": [
+      {
+        "courseSectionCode": "STAT2253.1",
+        "classroom": "Room 101",
+        "capacity": 25,
+        "noOfEnrolledStudent": 15,
+        "day": "Monday",
+        "hour": "9:00 AM"
+      },
+      {
+        "courseSectionCode": "STAT2253.2",
+        "classroom": "Room 102",
+        "capacity": 30,
+        "noOfEnrolledStudent": 15,
+        "day": "Wednesday",
+        "hour": "1:00 PM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+  {
+    "courseName": "Operating Systems",
+    "courseCode": "CSE3033",
+    "courseSemester": 5,
+    "courseType": "Must",
+    "credit": 7,
+    "courseSections": [
+      {
+        "courseSectionCode": "CSE3033.1",
+        "classroom": "Room 101",
+        "capacity": 25,
+        "noOfEnrolledStudent": 25,
+        "day": "Monday",
+        "hour": "8:30 AM"
+      },
+      {
+        "courseSectionCode": "CSE3033.2",
+        "classroom": "Room 102",
+        "capacity": 30,
+        "noOfEnrolledStudent": 25,
+        "day": "Wednesday",
+        "hour": "1:00 PM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+  {
+    "courseName": "Database Systems",
+    "courseCode": "CSE3055",
+    "courseSemester": 5,
+    "courseType": "Must",
+    "credit": 7,
+    "courseSections": [
+      {
+        "courseSectionCode": "CSE3055.1",
+        "classroom": "Room 201",
+        "capacity": 30,
+        "noOfEnrolledStudent": 20,
+        "day": "Monday",
+        "hour": "10:30 AM"
+      },
+      {
+        "courseSectionCode": "CSE3055.2",
+        "classroom": "Room 202",
+        "capacity": 35,
+        "noOfEnrolledStudent": 20,
+        "day": "Wednesday",
+        "hour": "10:30 PM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+  {
+    "courseName": "Object-Oriented Software Design",
+    "courseCode": "CSE3063",
+    "courseSemester": 5,
+    "courseType": "Must",
+    "credit": 5,
+    "courseSections": [
+      {
+        "courseSectionCode": "CSE3063.1",
+        "classroom": "Room Z-01",
+        "capacity": 40,
+        "noOfEnrolledStudent": 38,
+        "day": "Tuesday",
+        "hour": "8:30 AM"
+      },
+      {
+        "courseSectionCode": "CSE3063.2",
+        "classroom": "Room Z-08",
+        "capacity": 45,
+        "noOfEnrolledStudent": 38,
+        "day": "Friday",
+        "hour": "1:00 PM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+  {
+    "courseName": "Digital Logic Design",
+    "courseCode": "CSE3215",
+    "courseSemester": 5,
+    "courseType": "Must",
+    "credit": 6,
+    "courseSections": [
+      {
+        "courseSectionCode": "CSE3215.1",
+        "classroom": "Room 101",
+        "capacity": 25,
+        "noOfEnrolledStudent": 15,
+        "day": "Thursday",
+        "hour": "8:30 AM"
+      },
+      {
+        "courseSectionCode": "CSE3215.2",
+        "classroom": "Room 102",
+        "capacity": 30,
+        "noOfEnrolledStudent": 15,
+        "day": "Thursday",
+        "hour": "3:00 PM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+  {
+    "courseName": "Modeling and Discrete Simulation",
+    "courseCode": "IE3081",
+    "courseSemester": 5,
+    "courseType": "Must",
+    "credit": 4,
+    "courseSections": [
+      {
+        "courseSectionCode": "IE3081.1",
+        "classroom": "Room 201",
+        "capacity": 30,
+        "noOfEnrolledStudent": 30,
+        "day": "Monday",
+        "hour": "3:00 PM"
+      },
+      {
+        "courseSectionCode": "IE3081.2",
+        "classroom": "Room 202",
+        "capacity": 35,
+        "noOfEnrolledStudent": 30,
+        "day": "Tuesday",
+        "hour": "10:30 AM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+
+  {
+    "courseName": "Computer Networks",
+    "courseCode": "CSE4074",
+    "courseSemester": 7,
+    "courseType": "Must",
+    "credit": 5,
+    "courseSections": [
+      {
+        "courseSectionCode": "CSE4074.1",
+        "classroom": "Room Z-01",
+        "capacity": 40,
+        "noOfEnrolledStudent": 30,
+        "day": "Tuesday",
+        "hour": "1:00 PM"
+      },
+      {
+        "courseSectionCode": "CSE4074.2",
+        "classroom": "Room Z-02",
+        "capacity": 50,
+        "noOfEnrolledStudent": 30,
+        "day": "Friday",
+        "hour": "8:30 AM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+
+  {
+    "courseName": "Advanced Unix Programming",
+    "courseCode": "CSE4034",
+    "courseSemester": 7,
+    "courseType": "TE",
+    "credit": 5,
+    "courseSections": [
+      {
+        "courseSectionCode": "CSE4034.1",
+        "classroom": "Room 101",
+        "capacity": 25,
+        "noOfEnrolledStudent": 20,
+        "day": "Thursday",
+        "hour": "10:30 AM"
+      },
+      {
+        "courseSectionCode": "CSE4034.2",
+        "classroom": "Room 102",
+        "capacity": 30,
+        "noOfEnrolledStudent": 20,
+        "day": "Friday",
+        "hour": "10:30 AM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+  {
+    "courseName": "Cinema",
+    "courseCode": "NTE1008",
+    "courseSemester": 7,
+    "courseType": "NTE",
+    "credit": 3,
+    "courseSections": [
+      {
+        "courseSectionCode": "NTE1008.1",
+        "classroom": "Room 101",
+        "capacity": 25,
+        "noOfEnrolledStudent": 20,
+        "day": "Thursday",
+        "hour": "3:30 PM"
+      },
+      {
+        "courseSectionCode": "NTE1008.2",
+        "classroom": "Room 102",
+        "capacity": 30,
+        "noOfEnrolledStudent": 20,
+        "day": "Friday",
+        "hour": "5:30 PM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+
+  {
+    "courseName": "Financial Engineering",
+    "courseCode": "CHE4068",
+    "courseSemester": 8,
+    "courseType": "FTE",
+    "credit": 5,
+    "courseSections": [
+      {
+        "courseSectionCode": "CHE4068.1",
+        "classroom": "Room 101",
+        "capacity": 25,
+        "noOfEnrolledStudent": 20,
+        "day": "Thursday",
+        "hour": "8:30 AM"
+      },
+      {
+        "courseSectionCode": "CHE4068.2",
+        "classroom": "Room 102",
+        "capacity": 30,
+        "noOfEnrolledStudent": 20,
+        "day": "Friday",
+        "hour": "9:30 AM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+  {
+    "courseName": "Calculus I",
+    "courseCode": "MATH1001",
+    "courseSemester": 1,
+    "courseType": "Must",
+    "credit": 6,
+    "courseSections": [
+      {
+        "courseSectionCode": "MATH1001.1",
+        "classroom": "Room 101",
+        "capacity": 25,
+        "noOfEnrolledStudent": 18,
+        "day": "Monday",
+        "hour": "9:30 AM"
+      },
+      {
+        "courseSectionCode": "MATH1001.1",
+        "classroom": "Room 102",
+        "capacity": 30,
+        "noOfEnrolledStudent": 18,
+        "day": "Wednesday",
+        "hour": "5:00 PM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  },
+
+  {
+    "courseName": "Linear Algebra for Computer Engineering",
+    "courseCode": "MATH2256",
+    "courseSemester": 2,
+    "courseType": "Must",
+    "credit": 5,
+    "courseSections": [
+      {
+        "courseSectionCode": "MATH2256.1",
+        "classroom": "Room 101",
+        "capacity": 25,
+        "noOfEnrolledStudent": 18,
+        "day": "Monday",
+        "hour": "10:30 AM"
+      },
+      {
+        "courseSectionCode": "MATH2256.2",
+        "classroom": "Room 102",
+        "capacity": 30,
+        "noOfEnrolledStudent": 18,
+        "day": "Wednesday",
+        "hour": "4:30 PM"
+      }
+    ],
+    "prerequisite": null,
+    "lecturer": null
+  }
+]
